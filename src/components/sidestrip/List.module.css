@@ -1,0 +1,14 @@
+.cross{
+    display: flex;
+    width: 100%;
+    padding: 1.6rem;
+    flex: 0.018;
+    border-bottom: 1.5px solid var(--color-border);
+}
+.arrow{
+    display: flex;
+    width: 100%;
+    padding: 1.6rem;
+    flex: 0.022;
+    border-top: 1.5px solid var(--color-border);
+}

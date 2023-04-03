@@ -1,0 +1,14 @@
+    .profile{
+        position: relative;
+        margin-right: 1rem;
+    }
+    .progress{
+        position: relative;
+    }
+    .avatar{
+        position: absolute;
+        top: 0.25rem;
+        left:0.25rem;
+    }
+   
+    

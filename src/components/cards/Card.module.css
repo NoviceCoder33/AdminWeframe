@@ -1,0 +1,43 @@
+.card{
+    display: flex;
+    width: 100%;
+    height: max-content;
+    justify-content: space-between;
+    flex-direction: column;
+    background-color: var(--color-white);
+    border-radius: 1rem;
+    margin-top: 1rem;
+    padding: 0rem 0.3rem 0rem 0.3rem;
+}
+.head{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+.tags{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.simple{
+  font-size: x-small;
+  padding: 5px;  
+  background-color: var(--color-white);
+  border-radius: 5rem;
+  color: var(--color-greyfont) ;
+}
+.blu{
+    font-size: x-small;
+    padding: 5px;  
+    background-color: var(--color-blue);
+    border-radius: 5rem;
+    color:var(--color-darkblue) ;
+  }
+.yello{
+    padding: 5px;  
+    font-size: x-small;
+    background-color: var(--color-lightyellow);
+    border-radius: 5rem;
+    color:var(--color-yellow) ;
+  }
